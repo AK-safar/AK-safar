@@ -1,6 +1,5 @@
 ## Hi, I'm [Akram!](https://www.linkedin.com/in/akram-safar-962a92269) 👋 Welcome to my Github profile
 <div align="left">
-<h1 align="center">SO WHAT IS UX DESIGN?</h1>
 <p>As a UX designer, I am dedicated to crafting exceptional user experiences that drive engagement, satisfaction, and business success. With a keen eye for detail and a passion for understanding user behaviors and needs, I specialize in creating intuitive interfaces that seamlessly blend aesthetics with functionality. By employing a user-centered approach, conducting thorough research, and leveraging industry best practices, I ensure that my designs not only meet user expectations but also align with business goals. Through my expertise in wireframing, prototyping, and user testing, I transform complex challenges into elegant solutions that leave a lasting positive impact. I am eager to collaborate with forward-thinking teams to create innovative and impactful digital experiences that make a difference.</p>
 </div>
 <p align="center">
