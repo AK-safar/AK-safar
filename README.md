@@ -5,6 +5,6 @@ Experienced Web Designer: Transforming Vision into Stunning Online Experiences
 <br><img src="https://www.newbreedrevenue.com/hs-fs/hubfs/shutterstock_766485247-1.jpg?width=9727&name=shutterstock_766485247-1.jpg" width="100%"><br>
 </p>
 <a>
-<code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="100" height="100"/></code>
-<code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="100" height="100"/></code>
+<code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="30%" height="30%"/></code>
+<code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="30%" height="30%"/></code>
 </a>
