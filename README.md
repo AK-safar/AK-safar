@@ -5,5 +5,5 @@ Experienced Web Designer: Transforming Vision into Stunning Online Experiences
 <br><img src="https://www.newbreedrevenue.com/hs-fs/hubfs/shutterstock_766485247-1.jpg?width=9727&name=shutterstock_766485247-1.jpg" width="100%"><br><br>
 </p>
 <a>
-        <code><img src="https://udaipurwebdesigner.in/wp-content/uploads/2020/05/ui-ux-designing.png" alt="User interface" width="100" height="100"/></code>  
+        <code><img src="https://cdn.dribbble.com/users/472667/screenshots/4037893/ui-ux-design-banner.png?compress=1&resize=400x300&vertical=top" alt="User interface" width="100" height="100"/></code>  
 </a>
