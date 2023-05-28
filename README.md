@@ -4,7 +4,7 @@ Experienced Web Designer: Transforming Vision into Stunning Online Experiences
 <p align="center">
 <br><img src="https://www.newbreedrevenue.com/hs-fs/hubfs/shutterstock_766485247-1.jpg?width=9727&name=shutterstock_766485247-1.jpg" width="100%"><br>
 </p>
-<a>
+<!-- <a>
 <code><img src="https://cdn.dribbble.com/users/39708/screenshots/2883542/ux-ui-design.png" alt="User interface" width="10%" height="10%"/></code>
 <code><img src="https://www.sofitechsolutions.com/images/Logo-Designn.png" alt="User interface" width="10%" height="10%"/></code>
-</a>
+</a> -->
