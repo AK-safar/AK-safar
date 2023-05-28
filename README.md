@@ -1,4 +1,4 @@
-## Hi, I'm [Akram!] ([https://moudy-sy.github.io/My-prtfolio/index.html](https://www.linkedin.com/in/akram-safar-962a92269/)) 👋
+## Hi, I'm [Akram!] ((https://www.linkedin.com/in/akram-safar-962a92269/)) 👋
 Experienced Web Designer: Transforming Vision into Stunning Online Experiences
 
 <p align="center">
