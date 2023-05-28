@@ -2,7 +2,7 @@
 <div align="left">
   <p>As a <b>UX designer</b>, I am dedicated to crafting exceptional user experiences that drive engagement, satisfaction, and business success. With a keen eye for detail and a passion for understanding user behaviors and needs, I specialize in creating intuitive interfaces that seamlessly blend aesthetics with functionality. By employing a user-centered approach, conducting thorough research, and leveraging industry best practices, I ensure that my designs not only meet user expectations but also align with business goals. Through my expertise in wireframing, prototyping, and user testing, I transform complex challenges into elegant solutions that leave a lasting positive impact. I am eager to collaborate with forward-thinking teams to create innovative and impactful digital experiences that make a difference.</p>
 </div>
-## My Process
+<h3>My Process</h3>
 
 User experience design is not just about creating visually appealing interfaces; it's about understanding the user's journey and designing experiences that align with their expectations and behaviors. Here's a glimpse into my design process:
 
