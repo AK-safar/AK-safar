@@ -7,3 +7,7 @@ Experienced Web Designer: Transforming Vision into Stunning Online Experiences
 <a>
 <code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="100" height="100"/></code>
 </a>
+<a>
+<code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="100" height="100"/></code>
+<code><img src="https://www.nicepng.com/png/detail/553-5537346_phatjme-ux-design-icon-png.png" alt="User interface" width="100" height="100"/></code>
+</a>
